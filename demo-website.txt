@@ -1,0 +1,33 @@
+menu-item/navbar-text:
+Home          About         Services          Portfolio          Resume          Blog          Contact
+
+Bannner:-
+HELLO!
+HELo I Am Tasnia Zarin!
+I'm a Web Developer with extensive experience for over 5 years. My expertise is to create and Websites design, graphic design and many more...
+Download Cv
+
+
+About us part
+I Am Modern Web Designer
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus est, finibus ut congue sed, 
+faucibus ut dui. Sed congue nisl dolor, id dapibus leo elementum posuere. Ut aliquam metus quis laoreet elementum. 
+In hac habitasse platea dictumst. In hac habitasse platea dictumst.
+ Aliquam porta faucibus arcu, et consequat velit vestibulum in. Donec quis tel
+
+Name		: Zarin Zara Nancy
+Age		: 22
+Address		: Rnagpur,Paglapir,Rangpur
+Phone		: +8801873593399
+E-mail		: zarin115@gmail.com
+Nationality	: Bangladeshi
+
+my services
+
+Web Branding
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.
+
+
+I Am Available For Freelancer !
+Hire Me
